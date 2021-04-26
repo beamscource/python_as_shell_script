@@ -1,2 +1,2 @@
 # python_as_shell_script
-Example of a collection of wrapper functions to automate software execution
+A wrapper script to execute XML grammar regression testing at the shell. Why would you even need Bash?
